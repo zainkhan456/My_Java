@@ -1,4 +1,6 @@
 //practicing class1 but here we create separate files for for main class and student class
+
+//Types of Constructors
 public class Student{
     private int rollno;
     private String name;
