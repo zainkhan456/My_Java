@@ -1,4 +1,4 @@
-//GUI Input And Output Program
+//GUI Input And Output Program To Add Two Numbers
 import javax.swing.JOptionPane;
 public class Sum{
     public static void main(String[] args){
