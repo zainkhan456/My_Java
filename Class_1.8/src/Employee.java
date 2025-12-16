@@ -1,8 +1,10 @@
 //Inheritance
+
 //parent class
 /*Object is the parent class in java programming from which all other child classes (built-in) are derrived
   and it is the only class which has no parent class in java */
-public class Employee{   
+
+  public class Employee{   
     protected int id;
     protected String Empname;
     public Employee(){
