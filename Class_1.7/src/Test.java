@@ -1,5 +1,6 @@
 //String class and its methods
 //String is not a built in data type like int,float,double etc rather it is a class in java
+
 public class Test{
     public static void main(String[] args){
         //there are two ways to store a string in a variable.
