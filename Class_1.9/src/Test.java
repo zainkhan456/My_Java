@@ -1,5 +1,6 @@
 //Dynamic method dispatch
 //It mean that which overrided method should be call in different sitiuation or conditions
+
 class A{
     public A(){
         
