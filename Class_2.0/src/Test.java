@@ -1,5 +1,6 @@
 //Example of dynamic method dispatch
 //Calculating area of different figures
+
 class Figure{
     double dim1;
     double dim2;
