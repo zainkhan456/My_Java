@@ -1,11 +1,13 @@
 //Starting GUI
+
 //FLow Laylout
 /*Introduction:For GUI awt package can also be used but here we use the lattest pkg name swing because the GUI made 
-  with awt depend upon the operating system on which you aref doing the development and that's why it's components 
+  with awt depend upon the operating system on which you are doing the development and that's why it's components 
   are called heavy weight GUI components while the swing is independent of the operating system and that's why its 
   components are called light weight components.It doesn't mean that we will totally not use awt.*/
 //In java windows are called frames.
 //There are about 8 types of layouts e.g Border Layout(default layout),Flow layout,Grid layout etc.
+
 import javax.swing.JFrame;
 import javax.swing.JButton;
 import javax.swing.JTextField;
