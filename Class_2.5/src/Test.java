@@ -3,7 +3,8 @@
 //Didide the whole frame into five regions which are named as east,west,north,south and center.
 /*tThe space b/w east & center and west & center is called horizontal gap while the space 
   between north & center and south & center is called vertical gap.*/
-import javax.swing.JFrame;
+
+  import javax.swing.JFrame;
 import javax.swing.JButton;
 import java.awt.BorderLayout;
 class GUI{
