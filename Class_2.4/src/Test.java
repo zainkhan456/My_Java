@@ -2,6 +2,7 @@
 /*when the layout is grid the whole frame is behaving like a grid mean it is divided into 
   rows and columns or cells and in each cell we can have one component forexample
   3 * 2 layout mean we can add 6 components*/
+  
 import javax.swing.JFrame;
 import javax.swing.JButton;
 import java.awt.GridLayout;
