@@ -2,6 +2,7 @@
 /*There's also a 4th method which is not supported by every IDE but supported by
   netbeans IDE which would be discussed later.*/
 //Every thing in a single class withoud inheriting
+
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import java.awt.GridLayout;
