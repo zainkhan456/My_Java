@@ -6,6 +6,7 @@
 //import javax.swing.JTextField;
 //import javax.swing.JPanel;
 //Instead of importing one by one import all the pkgs of swing class at once.
+
 import javax.swing.*;
 import java.awt.GridLayout;
 import java.awt.BorderLayout;
