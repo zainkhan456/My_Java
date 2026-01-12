@@ -7,6 +7,7 @@
   bcz it also is applied to the title bar area which can't be change so it will not give us the error nor
   change the background color of the frame so to handle it we have to get the address or reference of the 
   component area of the frame i-e Container con = frame.getContentPane();//import Container class from awt.*/
+  
 import javax.swing.*;
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
