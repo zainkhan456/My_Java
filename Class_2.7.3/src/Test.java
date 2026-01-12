@@ -1,4 +1,5 @@
 //In this method we extends JFrame to the child Test Class so its method can be call by the child class 
+
 import javax.swing.*;
 import java.awt.GridLayout;
 public class Test extends JFrame{
