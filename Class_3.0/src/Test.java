@@ -1,6 +1,7 @@
 //Event Handling
 //Mouse Listener interface 
 //It has Five abstract methods i-e mouseClicked,mousePressed,mouseReleased,mouseEntered,mouseExited.
+
 import javax.swing.JFrame;
 import javax.swing.JButton;
 import java.awt.FlowLayout;
