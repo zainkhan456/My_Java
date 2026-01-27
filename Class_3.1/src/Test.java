@@ -1,6 +1,7 @@
 //Event Handling
-//ActionListener
+//ActionListener Interface
 //Simple Calculator
+
 import javax.swing.*;
 import java.awt.FlowLayout;
 import java.awt.event.*;
