@@ -1,7 +1,7 @@
 //Event Handling
 //WindowListener Interface
 //it has total 7 abstract method which is related to the events of JFrame or window 
-gi
+
 import javax.swing.JFrame;
 import java.awt.event.*;
 class GUI implements WindowListener{
