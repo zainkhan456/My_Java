@@ -2,6 +2,7 @@
 //Mouse Motion Listener
 //It has two abstract methods i-e mouseMoved and mouseDragged
 //Example1
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.FlowLayout;
