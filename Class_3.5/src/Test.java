@@ -1,5 +1,6 @@
 //implementing multiple interfaces
 //Here two interfaces are implemented i-e ActionListener and MouseMotion Listener
+
 import javax.swing.*;
 import java.awt.FlowLayout;
 import java.awt.event.*;
