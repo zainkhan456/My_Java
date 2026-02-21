@@ -1,5 +1,6 @@
 //MouseMotionListener interface
 //Example2
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.Container;
