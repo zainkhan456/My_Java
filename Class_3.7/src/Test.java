@@ -2,6 +2,7 @@
 //Here four interfaces are implemented i-e ActionListener,MouseMotionListener,MouseListener and windowListener
 //In this example we want that when i click on any part of the frame it should return me the pixel value of that part.
 //In addition to this example we want that when our window opens we get a welcome message and on closing it ask for closing
+
 import javax.swing.*;
 import java.awt.FlowLayout;
 import java.awt.event.*;
