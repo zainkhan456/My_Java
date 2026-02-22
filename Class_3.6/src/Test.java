@@ -1,6 +1,7 @@
 //implementing multiple interfaces
 //Here two interfaces are implemented i-e ActionListener,MouseMotionListener and MouseListener
 //In this example we want that when i click on any part of the frame it should return me the pixel value of that part.
+
 import javax.swing.*;
 import java.awt.FlowLayout;
 import java.awt.event.*;
