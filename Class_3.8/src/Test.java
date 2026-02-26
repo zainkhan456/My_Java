@@ -5,7 +5,9 @@
 /*WindowListener → WindowAdapter: handles windowOpened,windowClosing,windowClosed,windowActivated, windowDeactivated
   windowIconified,windowDeiconified */
 //////////////////////////////////////////////////////////////////////////////////////////////////
+
 //Adapter class for MouseMotionListener Interface
+
 import javax.swing.*;
 import java.awt.event.*;
 //Here GUI extends MouseMotionAdapter class mean MouseMotionAdapter is the parent class of the GUI.
