@@ -2,6 +2,7 @@
 //MouseAdapter //this adapter class is also used for MouseMotionListener interface
 //MouseListener interface have five method i-e mouseClicked,mousePressed,mouseRelease,mouseEntered,mouseExited.
 //you don't have to implement all if you don't need.
+
 import javax.swing.*;
 import java.awt.FlowLayout;
 import java.awt.event.*;
