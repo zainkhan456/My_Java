@@ -6,6 +6,7 @@
 /*As multiple inheritance is not allowed in Java so we can't directly extends multiple adapter classes that's why we use
  concept */
 //windowAdapter and mouseAdapter classes implementation.
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.FlowLayout;
