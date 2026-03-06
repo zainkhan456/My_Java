@@ -2,6 +2,7 @@
 //implementing one new interface FocusListener interface which have 2 abstract methods i-e focusGained and focusLost.
 //Inner class for implementing WindowAdapter and MouseAdapter classes and MouseMotionListener interface.
 //inner classes can not only extend Adapter classes it can also implements any interface.
+
 import java.awt.Color;
 import javax.swing.*;
 import java.awt.FlowLayout;
