@@ -1,5 +1,6 @@
 //Inner class for implementing WindowAdapter and MouseAdapter classes and MouseMotionListener interface.
 //inner classes can not only extend Adapter classes it can also implements any interface.
+
 import java.awt.Color;
 import javax.swing.*;
 import java.awt.FlowLayout;
@@ -9,7 +10,6 @@ class GUI{
     JFrame frame;
     JButton ok,exit;
     Container con;
-    
     public void init(){
         frame = new JFrame("Inner classes");
         ok = new JButton("Ok");
@@ -20,6 +20,7 @@ class GUI{
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(true);
         frame.add(ok);
+        
         frame.add(exit);
         con = frame.getContentPane();
         con.setBackground(Color.red);
