@@ -1,5 +1,6 @@
 //Handling events using Anonymous inner classes
 //Implement MouseListener and WindowListener Interface
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.FlowLayout;
