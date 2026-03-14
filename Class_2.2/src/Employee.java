@@ -7,6 +7,9 @@ public abstract class Employee{
         firstName = f;
         lastName = l;
     }
+    public Teacher() {
+        //TODO Auto-generated constructor stub
+    }
     public abstract double getSalary();
     public String toString(){
         return "First Name = " + firstName + "\nLast Name = " + lastName;
