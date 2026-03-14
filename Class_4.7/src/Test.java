@@ -1,5 +1,7 @@
 //Handling events using Anonymous inner classes
-//Instead of implementing MouseListener and WindowListener Interfaces here we will extend their Adapter classes.
+/*Instead of implementing MouseListener and WindowListener 
+    Interfaces here we will extend their Adapter classes. */
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.FlowLayout;
