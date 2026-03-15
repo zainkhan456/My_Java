@@ -1,6 +1,7 @@
 //Arithmetic Exception
 //Exception Handling
 //There are three main types of error i-e Syntax,Logical and Runtime errors.
+
 import java.util.Scanner;
 /*public class Test{
 Here the result of division is infinity when we divide first number by 0.Which is correct.
