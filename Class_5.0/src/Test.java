@@ -1,5 +1,7 @@
-//InputMismatchException.
-//When user input wrong value e.g user input string value instead of an integer value.
+// InputMismatchException.
+/* When user input wrong value e.g user input 
+   string value instead of an integer value. */
+   
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
