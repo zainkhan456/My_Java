@@ -1,5 +1,6 @@
 //Multiple Exception Handling
 //Here will handle two types of exception i-e Arithmetic Exception and NumberFormateException
+
 import javax.swing.JOptionPane;
 public class Test{
     public static void main(String[] args){
