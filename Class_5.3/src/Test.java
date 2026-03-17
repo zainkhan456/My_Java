@@ -1,5 +1,7 @@
 //Multiple Exception Handling
-//Here we will handle two types of exceptions i-e Arithmitic Exception and InputMismatchException.
+//Here we will handle two types of exceptions i-e 
+// Arithmitic Exception and InputMismatchException.
+
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class Test{
