@@ -1,5 +1,6 @@
 //Multiple Exception Handling i-e 
 //ArithmeticException,InputMismatchExceptionand ArrayIndexOutOfBoundException.
+
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class Test{
