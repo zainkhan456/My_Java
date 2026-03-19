@@ -1,4 +1,5 @@
 //Creating a general catch block
+
 import java.util.Scanner;
 public class Test{
     public static void main(String[] args){
