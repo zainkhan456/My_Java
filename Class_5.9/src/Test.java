@@ -1,4 +1,5 @@
 //Method 1
+
 import java.util.Scanner;
 class InvalidInput extends Exception{
     public InvalidInput(){
